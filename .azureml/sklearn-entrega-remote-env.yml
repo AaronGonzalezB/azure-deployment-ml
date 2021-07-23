@@ -1,0 +1,11 @@
+name: sklearn-entrega-remote-env
+dependencies:
+    - python=3.8
+    - scikit-learn
+    - numpy
+    - pandas
+    - pip
+    - pip:
+        - azureml-sdk
+        - spotipy
+        - azureml-defaults

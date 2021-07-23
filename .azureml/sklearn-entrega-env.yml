@@ -1,0 +1,9 @@
+name: sklearn-entrega-env
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - numpy
+  - pandas
+  - pip
+  - pip:
+      - spotipy
